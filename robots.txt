@@ -1,0 +1,27 @@
+User-agent: Googlebot
+
+Allow: /*.js           
+Allow: /*.css           
+Allow: /*.png
+Allow: /*.svg          
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Disallow: /registration/
+Disallow: /login/
+Disallow: /password-reminder/
+Disallow: /profile/
+Disallow: /try/
+Disallow: /search/
+Disallow: /account/
+Disallow: /en/
+Disallow: /sports/
+Disallow: /author/
+Disallow: /users/    
+Disallow: /archive/
+Disallow: /tag/
+
+User-agent: Yandex
+Disallow: /
+
+Sitemap: http://panama.mcdir.ru/sitemap.xml
